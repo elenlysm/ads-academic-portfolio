@@ -56,25 +56,70 @@ This repository is organized according to the core subjects studied throughout t
 ## 🗂️ Repository Structure
 
 ```
-📁 academic-notes
+📁 college-notes
 │
-├── algorithms/
-├── data-structures/
-├── oop/
-├── databases-relational/
-├── databases-nonrelational/
-├── software-engineering/
-├── web-frontend/
-├── web-backend/
-├── fullstack/
-├── mobile/
-├── devops-cloud/
-├── ai/
-├── ux-ui/
-├── cybersecurity/
-├── iot/
-├── project-management/
-└── business-intelligence/
+├── 01-foundations/
+│   ├── algorithms/
+│   │   └── README.md
+│   ├── data-structures/
+│   │   └── README.md
+│   ├── oop/
+│   │   └── README.md
+│   ├── computer-architecture/
+│   │   └── README.md
+│   └── operating-systems/
+│       └── README.md
+│
+├── 02-databases/
+│   ├── relational/
+│   │   └── README.md
+│   ├── non-relational/
+│   │   └── README.md
+│   └── sql/
+│       └── README.md
+│
+├── 03-software-development/
+│   ├── web-frontend/
+│   │   └── README.md
+│   ├── web-backend/
+│   │   └── README.md
+│   ├── fullstack/
+│   │   └── README.md
+│   ├── mobile/
+│   │   └── README.md
+│   ├── software-engineering/
+│   │   └── README.md
+│   └── software-quality/
+│       └── README.md
+│
+├── 04-advanced-topics/
+│   ├── artificial-intelligence/
+│   │   └── README.md
+│   ├── cloud-devops/
+│   │   └── README.md
+│   ├── iot/
+│   │   └── README.md
+│   ├── cybersecurity/
+│   │   └── README.md
+│   └── business-intelligence/
+│       └── README.md
+│
+├── 05-design-and-ux/
+│   ├── ui-design/
+│   │   └── README.md
+│   ├── ux/
+│   │   └── README.md
+│   └── interaction-design/
+│       └── README.md
+│
+└── 06-management/
+    ├── project-management/
+    │   └── README.md
+    ├── agile-methodologies/
+    │   └── README.md
+    └── digital-law-compliance/
+        └── README.md
+
 ```
 
 Each folder contains:
