@@ -105,7 +105,7 @@ This repository is organized according to the core subjects studied throughout t
 │       └── README.md
 │
 ├── 05-design-and-ux/
-│   ├── ui-design/
+│   ├── ixd/
 │   │   └── README.md
 │   ├── ux/
 │   │   └── README.md
