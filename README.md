@@ -109,7 +109,7 @@ This repository is organized according to the core subjects studied throughout t
 │   │   └── README.md
 │   ├── ux/
 │   │   └── README.md
-│   └── interaction-design/
+│   └── graphic-design/
 │       └── README.md
 │
 └── 06-management/
